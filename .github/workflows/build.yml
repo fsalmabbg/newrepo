@@ -35,5 +35,5 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
       - name: Add folder to server
-          run: |
-            mkdir ../build
+        run: |
+          mkdir ../build
